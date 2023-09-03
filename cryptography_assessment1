@@ -1,0 +1,154 @@
+VIOLZF IYIDT NDISM XISFID MOIDI GSK  SZ IYIZ NDISMID XWNLKMLBLSZ
+ 
+behind every great leader there was an even greater logistican
+
+-------------------------------------------------------------------
+
+permutation( 1, 2, 4, 10, 8, 9, 7, 5, 3, 6)
+
+cipher(LOIICSISGT STENLALBHA DCARFAOIHN MOEARFADRW RE)
+
+124x897536        
+loiicsisgt        
+stenlalbha
+dcarfaoihn
+moearfadrw
+re
+
+123456789x
+logisticsi
+stheballan         
+dchainofar
+moredwarfa
+re
+
+logistics is the ball and chain of armored warfare
+
+---------------------------------------------------------------------
+
+cipher(LLKU KUHW QOAO QVXF UVKQ UXVQ WSLQ FGBU QPXL EKGQ XQQQ OQVA ZVXP UXQG Q)
+
+Substitution (table 1) -> Permutation (block length = 8; permutation: 4, 8, 1, 3, 5, 7, 2, 6) -> Substitution (table 1) -> Permutation (block length = 4; permutation: 4, 2, 1, 3)
+
+4213
+llku
+kuhw
+qoao
+qvxf
+uvkq
+wslq --
+fgbu
+qpxl
+ekgq
+xqqq
+iqvq
+zvxp
+uxqg
+q
+
+1234
+klul
+huwk
+aooq
+xvfq
+kvqu --
+bguf
+xplq
+gkqe
+qqqx --
+vqqi
+xvpz
+qxgu
+   q
+   
+1234 //with substitution table applied pt1
+simi
+umos
+fhhk
+lbdk
+kbkm
+cwmd
+lxik
+wskz
+kkkl
+bkke
+lbxe
+klwm
+   k
+   
+2nd decrypt cipher(simiumosfhhklbdk kbkmcwmdlxikwskzkkklbkke lbxeklwmk)
+
+48135726
+simiumos
+fhhklbdk
+kbkmcwmd
+xcikwskz
+kkklbkke
+lbxeklwm
+k
+
+12345678 -- organized
+moisusmi
+hdkflkbh
+kmmkcdwb
+ikkxwzsc
+kklkbekk
+xwelkmlb
+   k
+   
+3rd decrypt cipher(moi susmihd kflk bhkmmkcdw bikkxwzs ckklkbe kxwelkm lbk)
+
+moisusmihdkflkbhkmmkcdwbikkxwzsckklkbekxwelkmlbk
+theamateursdiscusttsprocesslonapssisczslozistics
+
+the amateurs discustts process lonapssisczslozistics
+
+**I am unsure how I mistaked the process during my decryption (perhaps I became confused during a piece but the quote is... "The amateurs discuss tactics; the professionals discuss logistics".
+
+Perhaps this is due to it being french? If you notice where I got the decryption wrong, please inform me of how I may correct it.***
+
+----------------------------------------------------------------------------------------
+
+to be encrypted: British troops entered Cuxhaven at fourteen on six May -- from now on all radio traffic will cease -- wishing you all the best. Lt Kunkel
+
+
+   (x)    (y)     mod 26   eWord        british=GCBIBFY
+b - 1   - 6     - 6      - G
+r - 17  - 54    - 2      - C
+i - 8   - 27    - 1      - B
+t - 19  - 60    - 8      - I
+i - 8   - 27    - 1      - B
+s - 18  - 57    - 5      - F
+h - 7   - 24    - 24     - Y
+
+A0-3-3-D
+B1-6-6-G
+C2-9-9-J
+D3-12-12-M
+E4-15-15-P
+F5-18-18-S
+G6-21-21-V
+H7-24-24-Y
+I8-27-1-B
+J9-30-4-E
+K10-33-7-H
+L11-36-10-K
+M12-39-13-N
+N13-42-16-Q
+O14-45-19-T
+P15-48-22-W
+Q16-51-25-Z
+R17-54-2-C
+S18-57-5-F
+T19-60-8-I
+U20-63-11-L
+V21-66-14-O
+W22-69-17-R
+X23-72-20-U
+Y24-75-23-X
+Z25-78-0-A
+
+GCBIBFY ICTTWF PQIPCPM JLUYDOPQ DI STLCIPPQ TQ FBU NDX SCTN QTR TQ DUU CDMBT ICDSSBJ RBKK JPDFP RBFYBQV XTL DKK IYP GPFI KI HLQHPK
+BRITISH TROOPS ENTERED CUXHAVEN AT FOURTEEN ON SIX MAY FROM NOW ON ALL RADIO TRAFFIC WILL CEASE WISHING YOU ALL THE BEST LT KUNKEL
+
+encrypted cipher is:(GCBIBFYICTTWFPQIPCPMJLUYDOPQDISTLCIPPQTQFBUNDXSCTNQTRTQDUUCDMBTICDSSBJRBKKJPDFPRBFYBQVXTLDKKIYPGPFIKIHLQHPK)
